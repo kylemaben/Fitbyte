@@ -1,0 +1,15 @@
+H:\Fitbyte\fitbytecode\bin\Debug\net8.0\fitbytecode.exe
+H:\Fitbyte\fitbytecode\bin\Debug\net8.0\fitbytecode.deps.json
+H:\Fitbyte\fitbytecode\bin\Debug\net8.0\fitbytecode.runtimeconfig.json
+H:\Fitbyte\fitbytecode\bin\Debug\net8.0\fitbytecode.dll
+H:\Fitbyte\fitbytecode\bin\Debug\net8.0\fitbytecode.pdb
+H:\Fitbyte\fitbytecode\obj\Debug\net8.0\fitbytecode.GeneratedMSBuildEditorConfig.editorconfig
+H:\Fitbyte\fitbytecode\obj\Debug\net8.0\fitbytecode.AssemblyInfoInputs.cache
+H:\Fitbyte\fitbytecode\obj\Debug\net8.0\fitbytecode.AssemblyInfo.cs
+H:\Fitbyte\fitbytecode\obj\Debug\net8.0\fitbytecode.csproj.CoreCompileInputs.cache
+H:\Fitbyte\fitbytecode\obj\Debug\net8.0\fitbytecode.sourcelink.json
+H:\Fitbyte\fitbytecode\obj\Debug\net8.0\fitbytecode.dll
+H:\Fitbyte\fitbytecode\obj\Debug\net8.0\refint\fitbytecode.dll
+H:\Fitbyte\fitbytecode\obj\Debug\net8.0\fitbytecode.pdb
+H:\Fitbyte\fitbytecode\obj\Debug\net8.0\fitbytecode.genruntimeconfig.cache
+H:\Fitbyte\fitbytecode\obj\Debug\net8.0\ref\fitbytecode.dll
